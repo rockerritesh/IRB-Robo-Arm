@@ -12,7 +12,7 @@ Members of the project were:
 3. Devraj Parajuli (076BEI013)
 4. Dikshya Parajuli (076BEI041)
 5. Prajwol Pradhan (076BEI023)
-6. Sumit Yadav (076BCT088)
+6. [Sumit Yadav](https://github.com/rockerritesh) (076BCT088)
 
 
 
